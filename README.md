@@ -1,4 +1,4 @@
-<h1> Hi!!, I'm Shreya Mohan✌</h1> 
+<h1> Hi! I'm Shreya Mohan✌</h1> 
 
 - 🔭 I’m a Computer Science student. I'm passionate about technology and always eager to learn new things.
   
@@ -9,11 +9,18 @@
 - 💬 Ask me about Node.js, Cloud Computing(AWS), C, C++...
  
 - 📫 How to reach me: <h3> [Linkedin](https://www.linkedin.com/in/shreya-mohan-b6a369287/)</p> [Email](shreyamohan.me@gmail.com)</h3><br/>
+## GitHub Stats:
 
+<table >
+  <tr>
+    <td align="right">
+      <img src="https://visitcount.itsvg.in/api?id=Shreyamohan101&icon=3&color=5"/>
+      
+  </tr>
+</table>
 
 
 ![Shreya's GitHub stats](https://github-readme-stats.vercel.app/api?username=Shreyamohan101&show_icons=true&theme=radical)
-
 
 
 
